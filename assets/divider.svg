@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 24" width="200" height="24" preserveAspectRatio="xMidYMid meet">
+  <g fill="none" stroke="#C6A85B" stroke-width="1">
+    <line x1="0" y1="12" x2="82" y2="12"/>
+    <line x1="118" y1="12" x2="200" y2="12"/>
+  </g>
+  <g fill="#C6A85B">
+    <circle cx="94" cy="12" r="2.2"/>
+    <circle cx="100" cy="7" r="2.2"/>
+    <circle cx="106" cy="12" r="2.2"/>
+    <circle cx="100" cy="17" r="2.2"/>
+  </g>
+</svg>
