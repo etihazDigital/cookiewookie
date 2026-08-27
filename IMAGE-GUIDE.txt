@@ -1,0 +1,88 @@
+COOKIE WOOKIE — IMAGE FILE GUIDE
+==================================
+Every image the site uses lives in ONE folder: assets/photos/
+To swap in real photography, replace a file below with your own photo
+SAVED UNDER THE EXACT SAME FILE NAME — every page that uses it updates
+automatically. Don't rename files, don't add new ones for existing
+products; just overwrite.
+
+(assets/logo.svg, assets/favicon.svg and assets/divider.svg are small
+brand graphics, not photos — no need to touch these.)
+
+Recommended format: JPG, landscape/square as noted below, at least the
+pixel size listed (larger is fine, the site scales images down).
+
+
+HERO / BANNER IMAGES  (wide, moody, can have empty space for text on top)
+---------------------------------------------------------------------------
+hero-home.jpg        Home page, top of page          1800 x 1150px
+                      A wide hero shot — a styled spread of cookies and
+                      mini cakes, or a warm shot of your kitchen/hands
+                      at work. This is the very first thing visitors see.
+
+hero-menu.jpg         Menu page banner                1800 x 650px
+hero-about.jpg        About page banner               1800 x 650px
+hero-gallery.jpg       Gallery page banner              1800 x 650px
+hero-contact.jpg       Contact page banner              1800 x 650px
+                      Shorter wide banners — any nice wide shot works
+                      (a table spread, packaging, oven shot, etc.)
+                      Text sits on top of these, so avoid busy corners.
+
+
+ABOUT PAGE
+---------------------------------------------------------------------------
+about-founder.jpg     About page, "How It Started"    900 x 1100px (portrait)
+                      A photo of you / the baker at work — mixing,
+                      decorating, in the kitchen. Makes the story feel real.
+
+about-behind-1.jpg     About page, "Behind The Scenes" 800 x 800px (square)
+about-behind-2.jpg     About page, "Behind The Scenes" 800 x 800px (square)
+about-behind-3.jpg     About page, "Behind The Scenes" 800 x 800px (square)
+                      Three candid kitchen / process shots.
+
+
+PRODUCT PHOTOS  (used on both the Home "Bestsellers" section AND the
+Menu page — same file, shown in two places)
+---------------------------------------------------------------------------
+cookie-classic-choc-chunk.jpg     Classic Choc Chunk cookie      800 x 800px
+cookie-pistachio-rose.jpg          Pistachio Rose cookie          800 x 800px
+cookie-double-choc.jpg             Double Chocolate cookie        800 x 800px
+cookie-butterscotch.jpg            Butterscotch Crunch cookie     800 x 800px
+minicake-red-velvet.jpg            Red Velvet mini cake           800 x 800px
+minicake-chocolate-truffle.jpg     Chocolate Truffle mini cake    800 x 800px
+minicake-lotus-biscoff.jpg         Lotus Biscoff mini cake        800 x 800px
+minicake-vanilla-bean.jpg          Vanilla Bean mini cake         800 x 800px
+cupcake-nutella.jpg                Nutella Swirl cupcake          800 x 800px
+cupcake-strawberry.jpg             Strawberry Cream cupcake       800 x 800px
+giftbox-celebration.jpg            Celebration Gift Box           800 x 800px
+giftbox-festive.jpg                Festive Hamper Box             800 x 800px
+                      Square, top-down or 45-degree shots work best —
+                      the same style/lighting across all of these will
+                      make the menu grid look the most professional.
+
+                      NOTE: the names/flavours above are placeholders I
+                      invented — if your real menu has different items,
+                      just re-use these same file names for whichever
+                      photos you drop in (e.g. put your real "Oreo
+                      Crumble" cookie photo into cookie-butterscotch.jpg)
+                      and update the matching text directly in menu.html
+                      and index.html to match.
+
+
+GALLERY PAGE  (12 photos, any mix of finished products, packaging,
+process shots, or your workspace — this is the "show off" page)
+---------------------------------------------------------------------------
+gallery-1.jpg  through  gallery-12.jpg          800 x 800px (square)
+                      These also double as the small Instagram-style
+                      preview grid near the bottom of the Home page
+                      (it reuses gallery-1.jpg to gallery-6.jpg).
+
+
+A NOTE ON THE CURRENT IMAGE FILES
+---------------------------------------------------------------------------
+I wasn't able to pull real photos from the Instagram profile (Instagram
+blocks that from automated tools), so every file in assets/photos/ right
+now is just empty space — a plain fill with a thin gold outline at the
+correct pixel size, nothing decorative. That's on purpose: just overwrite
+each one with your own photo, using the exact file name, whenever you're
+ready.
